@@ -1,13 +1,8 @@
 # Requirements
 ## Introduction
-<<<<<<< HEAD
  
-=======
  BOUNCING BALL This is a simple bouncing ball game in C language.
 In this game, there is one ball and one paddle. Gamer only needs to move the paddle in the direction of the ball. Your goal is to keep the ball bouncing. after the ball hits the bottom of the screen that is you miss the paddle then the will be over.A bouncing ball is one of the simplest physics simulations yet provides a novice graphics programmer with a host of useful experience. The student creates a ball that bounces off the walls of a box, adds a bat, then gamifies the whole experience into a simple block-out game.
-
-
->>>>>>> ea895d4090b36769433f7d858744b6dbca7e9e40
 
 ## SWOT ANALYSIS
 Strength :
