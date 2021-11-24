@@ -50,3 +50,11 @@ Can Be operated from persobnal computer or dekstop
 | LLR_2 | MODE : No of modes can be specified. | Implemented |
 | LLR_3 | DIFFICULTY LEVEL : No of obstacles to be minimized the game score . | Implemented |
 
+Test Plan
+| ID | Description | Status |
+| --- | --- | --- |
+| 1. | Start Game | Implemented |
+| 2. | Level Detection | Implemented |
+| 3. | Score : Minimum/Maximum | Implemented |
+| 4. | End Game | Implemented |
+
