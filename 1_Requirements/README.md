@@ -1,4 +1,4 @@
-# Requirements
+
 ## Introduction
  
  BOUNCING BALL This is a simple bouncing ball game in C language.
