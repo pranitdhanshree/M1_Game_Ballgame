@@ -34,3 +34,19 @@ Everyone can play these game
 ## How:
 
 Can Be operated from persobnal computer or dekstop
+# Detail requirements
+## High Level Requirements:
+| ID | Description | Status |
+| --- | --- | --- |
+| HLR_1 | GRAPHICS : Realistic graphics can be added. | Implemented
+| HLR_2 | MODE : Different modes can be added. | Implemented |
+| HLR_3 | DIFFICULTY LEVEL : We can add more obstacles in this game. | Implemented |
+
+
+##  Low level Requirements:
+| ID | Description | Status |
+| --- | --- | --- |
+| LLR_1 | GRAPHICS : Graphics should be  compatable to the computer specification. | Implemented |
+| LLR_2 | MODE : No of modes can be specified. | Implemented |
+| LLR_3 | DIFFICULTY LEVEL : No of obstacles to be minimized the game score . | Implemented |
+
