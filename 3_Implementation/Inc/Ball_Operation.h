@@ -8,3 +8,10 @@
  * @copyright Copyright (c) 2021
  * 
  */
+#include<stdio.h>
+#include<ctype.h>
+#include<conio.h>
+#include<stdlib.h>
+#include<dos.h>
+#include<graphics.h>
+#include<time.h>
